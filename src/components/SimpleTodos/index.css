@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.first-container {
+  background-color: orange;
+  height: 100vh;
+}
+.second-container {
+  background-color: white;
+  margin: 50px;
+  padding: 50px;
+}
